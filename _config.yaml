@@ -6,7 +6,8 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+# baseurl: /lab-website-template
+baseurl: www.zdsfy.xyz/lab-website-template
 
 # site social media and other links
 links:
