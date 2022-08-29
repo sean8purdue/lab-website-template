@@ -4,7 +4,7 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template] is an easy-to-use, flexible website template for [labs], with automatic citations, GitHub tag imports, pre-built components, and more.
+[Lab Website Template] is an easy-to-use 1, flexible website template for [labs], with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
 
 {%
