@@ -1,6 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1158/0008-5472.CAN-21-0384
+  title: Loss of FBXW7 Correlates with Increased IDH1 Expression in Glioma and Enhances
+    IDH1-Mutant Cancer Cell Sensitivity to Radiation
+  authors:
+  - Zhuo Yang
+  - Nan Hu
+  - Weiwei Wang
+  - Weihua Hu
+  - Shaolong Zhou
+  - Jianxiang Shi
+  - Minghe Li
+  - Zhou Jing
+  - Chao Chen
+  - Xuyang Zhang
+  - Ruyi Yang
+  - Xudong Fu
+  - Xinjun Wang
+  publisher: Cancer Research
+  date: '2020-06-02'
+  link: https://doi.org/gqqpgc
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/knowledge-graph-review/
+  tags:
+  - knowledge graphs
+  _cache: 4966196f511718d31b6337805c9e275550fb8bbfd6bacc819743410a71e27191
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
