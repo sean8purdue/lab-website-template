@@ -2,25 +2,17 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Research for a Life without Cancer
 
-[Lab Website Template] is an easy-to-use 1, flexible website template for [labs], with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+We help deliver better outcomes for all those affected by cancer throughout China and beyond. Identifying gaps in cancer research and addressing them. Looking out for unnecessary, expensive duplication of effort and guarding against it. We tirelessly search for new ways and means to accelerate the progress of cancer research.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
+
 {%
   include link.html
   type="docs"
   icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="visit official website"
+  link="http://www.zdsfy.com"
   style="button"
 %}
 {:.center}
@@ -34,8 +26,8 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We focus in the field of cancer biology with specific emphasis on identifying novel molecular targets in pancreatic cancer that are important in the response to immune checkpoint inhibitors. 
+
 
 {%
   include link.html
@@ -56,8 +48,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wang Research Center offers scientists, researchers, clinicians, health care professionals, and others numerous resources to learn, understand, and collaborate on cutting-edge cancer immunotherapy advancements.
 
 {%
   include link.html
@@ -79,7 +70,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Wang Research Center engaged in research in a wide range of disciplines. The University also has an array of research institutes and research centres specializing in interdisciplinary research of the highest quality.
 
 {%
   include link.html
@@ -99,5 +90,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Wang Research Center is a multidisciplinary applied research unit focused on research addressing the aetiology of cancer and research addressing health-services related to cancer care.
