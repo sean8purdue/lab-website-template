@@ -21,13 +21,13 @@
   publisher: Cancer Research
   date: '2020-06-02'
   link: https://doi.org/gqqpgc
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/m_canres_82_3_cover.png
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
-  _cache: 4966196f511718d31b6337805c9e275550fb8bbfd6bacc819743410a71e27191
+  _cache: e8b87ffc2ea6fa150c5379fff4f3b7b5b50fdea37dcaaf66108ee59892090340
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
