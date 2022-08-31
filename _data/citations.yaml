@@ -55,21 +55,77 @@
   - Extracellular Vesicles
   - Haptotaxis
   _cache: f39c665365ec4e56805405a69d10220d8d7eca05b2e5e272d187f345d13dc199
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.3390/cells9102243
+  title: Long-Term Low-Dose Delta-9-Tetrahydrocannbinol (THC) Administration to Simian
+    Immunodeficiency Virus (SIV) Infected Rhesus Macaques Stimulates the Release of
+    Bioactive Blood Extracellular Vesicles (EVs) that Induce Divergent Structural
+    Adaptations and Signaling Cues
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Yuan Lyu
+  - Steven Kopcho
+  - Mahesh Mohan
+  - Chioma M. Okeoma
+  publisher: Cells
+  date: '2020-10-06'
+  link: https://doi.org/gqqs89
+  image: images/publication/cells-09-02243-g004.jpeg
   tags:
-  - knowledge graphs
-  _cache: 371e391cc663116136dc43f4c93ebdc2998f52a3abd67c7add918c3b9f4f98d9
+  - delta-9-tetrahydrocannbinol (THC)
+  - extracellular vesicles (EVs)
+  - SIV/HIV
+  _cache: bbbf665cd83dc7070e9b3761eadfe52b8c7403e2c1eedafd74a90b220ca0d075
+- id: doi:10.1016/j.apsb.2021.09.032
+  title: Preclinical evaluation and pilot clinical study of [18F]AlF-labeled FAPI-tracer
+    for PET imaging of cancer associated fibroblasts
+  authors:
+  - Kongzhen Hu
+  - Junqi Li
+  - Lijuan Wang
+  - Yong Huang
+  - Li Li
+  - Shimin Ye
+  - Yanjiang Han
+  - Shun Huang
+  - Hubing Wu
+  - Jin Su
+  - Ganghua Tang
+  publisher: Acta Pharmaceutica Sinica B
+  date: '2022-02-01'
+  link: https://doi.org/gngnfx
+  image: images/publication/gr4.jpeg
+  tags:
+  - Fibroblast activation protein
+  - Nasopharyngeal cancer
+  - PET
+  _cache: d5509b84f754064b2ba3db1e9411640391829b618961bbeda2a968e35c1342f5
+- id: doi:10.2147/CMAR.S228174
+  title: '&lt;p&gt;A Multi-Element Expression Score Is A Prognostic Factor In Glioblastoma
+    Multiforme&lt;/p&gt;'
+  authors:
+  - Jun-Qi Li
+  - Qian-Ting Wang
+  - Ying Nie
+  - Yun-Peng Xiao
+  - Tao Lin
+  - Ru-Jin Han
+  - Zhe Li
+  - Yu-Ying Fan
+  - Xiao-Hui Yuan
+  - Yue-Ming Wang
+  - Jian Zhang
+  - You-Wen He
+  - Hua-Xin Liao
+  publisher: Cancer Management and Research
+  date: '2019-10-01'
+  link: https://doi.org/gqqs9b
+  image: images/publication/CMAR-11-8977-g0003.jpeg
+  tags:
+  - TAAs
+  - TME
+  - gene expression score
+  - glioblastoma
+  - prognosis
+  _cache: 45632ee95435c5cb1a2711d33ea3054a5091cb98dff81537c0906215ffa84196
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
