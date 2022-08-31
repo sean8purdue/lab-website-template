@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab is made up of a highly engaged and collaborative team of researchers. We recognize that diverse teams do better research. We foster an environment where team members are treated equally, and where we respect and admire our differences. The team includes postdocs, students at all levels, staff, and our lab mascots.
 
 {% include section.html %}
 
@@ -36,8 +33,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We work with a wide range of outstanding groups from around the world, and we’re always on the lookout for new and unique perspectives. We want to push the frontier of science and train the next generation of cancer research scientists.
 
 {% include section.html %}
 
@@ -45,11 +41,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 #### Post Dogtoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are actively looking for top talents.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+- The primary purpose of the Research Assistant I position is to carry out specific experiments designed to improve the functional understanding of processes involved in pancreatitis and in early and late pancreatic carcinogenesis. 
+- This may include the implementation of protocols as they relate to specimens obtained from human pancreatic cancer patients and genetically engineered mouse models (cell lines, tissues), isolation of 2D, 3D/organoid cell lines, functional in vitro and in vivo assays
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}

@@ -1,18 +1,16 @@
 ---
-name: Felix Cited
-image: images/member.jpg
-description: Treat Researcher
+name: Yuan Lyu
+image: images/team/YuanLyu.jpg
+description: Researcher
 role: phd
 group: alum
 aliases:
-  - F. Cited
-  - F Cited
+  - Yuan Lyu
+  - Y. Lyu
+  - Y. L.
 links:
   home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  email: lvyuan10@outlook.com
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Yuan Lyu is a researcher of Wang Research Center.

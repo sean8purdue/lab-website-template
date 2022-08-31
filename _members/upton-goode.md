@@ -1,18 +1,16 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
+name: Xinjun Wang
+image: images/team/XinjunWang.png
+description: Founder of Wang Research Lab
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - W. Xinjun
+  - Xinjun W.
+  - Xinjun Wang
+  - Xin-Jun Wang
 links:
   orcid: 0000-0001-8713-9213
   email: upton@ogoode.com
-  twitter: uptonogoode
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Xinjun Wang is the founder of Wang Research Lab

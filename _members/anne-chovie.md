@@ -1,17 +1,16 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
+name: Junqi Li
+image: images/team/JunqiLi.jpg
+description: Researcher
+role: phd
 aliases:
-  - A. Chovie
-  - A Chovie
+  - Junqi Li
+  - Junqi L.
+  - Jun-Qi Li
+  - J. L.
 links:
   home-page: annechovie.com
   email: anne@chovie.com
-  github: anne-chovie
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Junqi Li is a researcher of Wang Research Center.
