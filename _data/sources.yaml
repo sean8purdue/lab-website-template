@@ -1,12 +1,18 @@
 - id: doi:10.1158/0008-5472.CAN-21-0384
-  image: "images/m_canres_82_3_cover.png"
+  image: images/publication/m_canres_82_3_cover.png
   date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - IDH1-Mutant
     - Radiation
+
+- id: doi:10.1007/s00018-021-04068-2
+  image: images/publication/nihms-1804074-f0003.jpeg
+  date: 2021-12-22
+  tags:
+    - Small RNA-Seq
+    - Proteomics
+    - Extracellular Vesicles
+    - Haptotaxis
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
@@ -35,9 +41,13 @@
       link: https://doi.org/10.7287/peerj.preprints.3100v1
     - type: manubot
       link: https://greenelab.github.io/scihub-manuscript/
+    - type: manubot
+      link: https://greenelab.github.io/knowledge-graph-review/
     - type: source
       link: https://github.com/greenelab/scihub-manuscript
       text: Manuscript source
     - type: source
       link: https://github.com/greenelab/scihub
       text: Analyses source
+    - type: website
+      link: http://manubot.org/
