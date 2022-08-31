@@ -26,8 +26,9 @@
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-  - knowledge graphs
-  _cache: e8b87ffc2ea6fa150c5379fff4f3b7b5b50fdea37dcaaf66108ee59892090340
+  - IDH1-Mutant
+  - Radiation
+  _cache: a86f83a4dd05837ef338da34f582fdda84e8e29b4e530f4f17e69f105f9e1b95
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
