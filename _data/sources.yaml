@@ -1,12 +1,12 @@
 - id: doi:10.1158/0008-5472.CAN-21-0384
-  image: images/publication/m_canres_82_3_cover.png
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   date: 2020-6-2
   tags:
     - IDH1-Mutant
     - Radiation
 
 - id: doi:10.1007/s00018-021-04068-2
-  image: images/publication/nihms-1804074-f0003.jpeg
+  image: https://www.jianguoyun.com/c/tblv2/N48n1e7_HdYWAa4v9I9emBiTBuYuO2QH0HynpPVhW5zxQzE7JPa-wjddSo46_ftc2kBYjqHo/YsuLPPy3CnZbwCPWhGVmUQ/l
   tags:
     - Small RNA-Seq
     - Proteomics

@@ -62,7 +62,7 @@ Wang Research Center offers scientists, researchers, clinicians, health care pro
 
 {%
   include feature.html
-  image="images/2205_Yuan.jpg"
+  image="https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -84,7 +84,7 @@ Wang Research Center engaged in research in a wide range of disciplines. The Uni
 
 {%
   include feature.html
-  image="images/2205_Junqi.jpg"
+  image="https://www.jianguoyun.com/c/tblv2/N48n1e7_HdYWAa4v9I9emBiTBuYuO2QH0HynpPVhW5zxQzE7JPa-wjddSo46_ftc2kBYjqHo/YsuLPPy3CnZbwCPWhGVmUQ/l"
   link="team"
   title="Our Team"
   text=text
