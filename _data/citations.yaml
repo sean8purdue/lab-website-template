@@ -46,7 +46,7 @@
   - Jack T. Stapleton
   - Chioma M. Okeoma
   publisher: Cellular and Molecular Life Sciences
-  date: 1900-1-1
+  date: '2021-12-22'
   link: https://doi.org/gqqs52
   image: images/publication/nihms-1804074-f0003.jpeg
   tags:
@@ -54,7 +54,7 @@
   - Proteomics
   - Extracellular Vesicles
   - Haptotaxis
-  _cache: 953657c533e65c545b020025427dce5f42c84220cf707e489237846fbcf4799d
+  _cache: f39c665365ec4e56805405a69d10220d8d7eca05b2e5e272d187f345d13dc199
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
