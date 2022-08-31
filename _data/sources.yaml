@@ -13,14 +13,28 @@
     - Extracellular Vesicles
     - Haptotaxis
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: doi:10.3390/cells9102243
+  image: images/publication/cells-09-02243-g004.jpeg
   tags:
-    - knowledge graphs
+    - delta-9-tetrahydrocannbinol (THC)
+    - extracellular vesicles (EVs)
+    - SIV/HIV
+
+- id: doi:10.1016/j.apsb.2021.09.032
+  image: images/publication/gr4.jpeg
+  tags:
+    - Fibroblast activation protein
+    - Nasopharyngeal cancer
+    - PET
+
+- id: doi:10.2147/CMAR.S228174
+  image: images/publication/CMAR-11-8977-g0003.jpeg
+  tags:
+    - TAAs
+    - TME
+    - gene expression score
+    - glioblastoma
+    - prognosis
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
