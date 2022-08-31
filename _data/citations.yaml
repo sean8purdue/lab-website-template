@@ -21,11 +21,11 @@
   publisher: Cancer Research
   date: '2020-06-02'
   link: https://doi.org/gqqpgc
-  image: images/publication/m_canres_82_3_cover.png
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   tags:
   - IDH1-Mutant
   - Radiation
-  _cache: 426f7153365bc3c2a14d4e241a0d4dfad9bb71b6e1b2a64107872fd29cb3f896
+  _cache: b42ef96d1d75ef3b2cf424e51852bc2c0c06384a7d1f9da3afe1195d473d2dee
 - id: doi:10.1007/s00018-021-04068-2
   title: HIV-infection and cocaine use regulate semen extracellular vesicles proteome
     and miRNAome in a manner that mediates strategic monocyte haptotaxis governed
@@ -48,13 +48,13 @@
   publisher: Cellular and Molecular Life Sciences
   date: '2021-12-22'
   link: https://doi.org/gqqs52
-  image: images/publication/nihms-1804074-f0003.jpeg
+  image: https://www.jianguoyun.com/c/tblv2/N48n1e7_HdYWAa4v9I9emBiTBuYuO2QH0HynpPVhW5zxQzE7JPa-wjddSo46_ftc2kBYjqHo/YsuLPPy3CnZbwCPWhGVmUQ/l
   tags:
   - Small RNA-Seq
   - Proteomics
   - Extracellular Vesicles
   - Haptotaxis
-  _cache: f39c665365ec4e56805405a69d10220d8d7eca05b2e5e272d187f345d13dc199
+  _cache: 18ce4fd9a198fed4f42609e5af698d9f521064fe1240b7a074383ef123333de9
 - id: doi:10.3390/cells9102243
   title: Long-Term Low-Dose Delta-9-Tetrahydrocannbinol (THC) Administration to Simian
     Immunodeficiency Virus (SIV) Infected Rhesus Macaques Stimulates the Release of
