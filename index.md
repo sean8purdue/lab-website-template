@@ -41,7 +41,7 @@ We focus in the field of cancer biology with specific emphasis on identifying no
 
 {%
   include feature.html
-  image="images/2205.jpg"
+  image="https://img1.imgtp.com/2022/08/31/zKINeK6v.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -62,7 +62,7 @@ Wang Research Center offers scientists, researchers, clinicians, health care pro
 
 {%
   include feature.html
-  image="https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg"
+  image="https://img1.imgtp.com/2022/08/31/ALBsMRzH.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -84,7 +84,7 @@ Wang Research Center engaged in research in a wide range of disciplines. The Uni
 
 {%
   include feature.html
-  image="https://www.jianguoyun.com/c/tblv2/N48n1e7_HdYWAa4v9I9emBiTBuYuO2QH0HynpPVhW5zxQzE7JPa-wjddSo46_ftc2kBYjqHo/YsuLPPy3CnZbwCPWhGVmUQ/l"
+  image="https://img1.imgtp.com/2022/08/31/7ySy8ubb.jpg"
   link="team"
   title="Our Team"
   text=text
