@@ -21,14 +21,40 @@
   publisher: Cancer Research
   date: '2020-06-02'
   link: https://doi.org/gqqpgc
-  image: images/m_canres_82_3_cover.png
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  image: images/publication/m_canres_82_3_cover.png
   tags:
   - IDH1-Mutant
   - Radiation
-  _cache: a86f83a4dd05837ef338da34f582fdda84e8e29b4e530f4f17e69f105f9e1b95
+  _cache: 426f7153365bc3c2a14d4e241a0d4dfad9bb71b6e1b2a64107872fd29cb3f896
+- id: doi:10.1007/s00018-021-04068-2
+  title: HIV-infection and cocaine use regulate semen extracellular vesicles proteome
+    and miRNAome in a manner that mediates strategic monocyte haptotaxis governed
+    by miR-128 network
+  authors:
+  - Hussein Kaddour
+  - Steven Kopcho
+  - Yuan Lyu
+  - Nadia Shouman
+  - Victor Paromov
+  - Siddharth Pratap
+  - Chandravanu Dash
+  - Eun-Young Kim
+  - Jeremy Martinson
+  - Heather McKay
+  - Marta Epeldegui
+  - Joseph B. Margolick
+  - Jack T. Stapleton
+  - Chioma M. Okeoma
+  publisher: Cellular and Molecular Life Sciences
+  date: 1900-1-1
+  link: https://doi.org/gqqs52
+  image: images/publication/nihms-1804074-f0003.jpeg
+  tags:
+  - Small RNA-Seq
+  - Proteomics
+  - Extracellular Vesicles
+  - Haptotaxis
+  _cache: 953657c533e65c545b020025427dce5f42c84220cf707e489237846fbcf4799d
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
@@ -86,10 +112,14 @@
     link: https://doi.org/10.7287/peerj.preprints.3100v1
   - type: manubot
     link: https://greenelab.github.io/scihub-manuscript/
+  - type: manubot
+    link: https://greenelab.github.io/knowledge-graph-review/
   - type: source
     link: https://github.com/greenelab/scihub-manuscript
     text: Manuscript source
   - type: source
     link: https://github.com/greenelab/scihub
     text: Analyses source
-  _cache: 1510c88d1d7cdb29f090da47b0903118fa57243de166541c8ff31c614fc05604
+  - type: website
+    link: http://manubot.org/
+  _cache: d2333beef01910b3a9ef7bb259e60b9c0be924a57c08c0d43fdb2cbd1519f20d
