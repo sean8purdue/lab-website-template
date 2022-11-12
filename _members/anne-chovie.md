@@ -1,6 +1,6 @@
 ---
 name: Junqi Li
-image: https://img1.imgtp.com/2022/08/31/WNfzxQ9M.jpg
+image: images/team/JunqiLi.jpg
 description: Researcher
 role: phd
 aliases:

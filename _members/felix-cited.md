@@ -1,6 +1,6 @@
 ---
 name: Yuan Lyu
-image: https://img1.imgtp.com/2022/08/31/XImpv8GX.jpg
+image: images/team/YuanLyu.jpg
 description: Researcher
 role: phd
 group: alum

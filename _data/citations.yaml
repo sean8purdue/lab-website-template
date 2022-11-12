@@ -21,7 +21,7 @@
   publisher: Cancer Research
   date: '2020-06-02'
   link: https://doi.org/gqqpgc
-  image: https://img1.imgtp.com/2022/08/31/TIVfqyiI.png
+  image: images/publication/s00018-021-04068-2.png
   tags:
   - IDH1-Mutant
   - Radiation
@@ -48,7 +48,7 @@
   publisher: Cellular and Molecular Life Sciences
   date: '2021-12-22'
   link: https://doi.org/gqqs52
-  image: https://img1.imgtp.com/2022/08/31/QZBG3Imb.jpeg
+  image: images/publication/s00018-021-04068-2.jpeg
   tags:
   - Small RNA-Seq
   - Proteomics
@@ -68,7 +68,7 @@
   publisher: Cells
   date: '2020-10-06'
   link: https://doi.org/gqqs89
-  image: https://img1.imgtp.com/2022/08/31/UT10SAzD.jpeg
+  image: images/publication/cells910224.jpeg
   tags:
   - delta-9-tetrahydrocannbinol (THC)
   - extracellular vesicles (EVs)
@@ -92,7 +92,7 @@
   publisher: Acta Pharmaceutica Sinica B
   date: '2022-02-01'
   link: https://doi.org/gngnfx
-  image: https://img1.imgtp.com/2022/08/31/2gFNpF6Y.jpeg
+  image: images/publication/j.apsb.2021.09.032.jpeg
   tags:
   - Fibroblast activation protein
   - Nasopharyngeal cancer
@@ -118,7 +118,7 @@
   publisher: Cancer Management and Research
   date: '2019-10-01'
   link: https://doi.org/gqqs9b
-  image: https://img1.imgtp.com/2022/08/31/4D7rMDhF.jpeg
+  image: images/publication/CMAR.S228174.jpeg
   tags:
   - TAAs
   - TME

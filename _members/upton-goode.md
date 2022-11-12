@@ -1,6 +1,6 @@
 ---
 name: Xinjun Wang
-image: https://img1.imgtp.com/2022/08/31/CiiXdb8l.png
+image: images/team/XinjunWang.png
 description: Founder of Wang Research Lab
 role: pi
 aliases:
